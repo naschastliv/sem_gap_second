@@ -1,11 +1,11 @@
 {
   "task_1": {
-    "source_image": "images\\horizontal_bar.jpg",
+    "source_image": "images\\shalom.jpg",
     "result_image": "images\\task_1.png",
     "threshold": 100
   },
   "task_2": {
-    "source_image": "images\\ruler.png",
+    "source_image": "images\\pen.jpg",
     "result_image": "images\\task_2.png",
     "params": {
       "canny": {
@@ -17,8 +17,8 @@
     }
   },
   "task_3": {
-    "source_image_file_first": "images\\cactus1.jpg",
-    "source_image_file_second": "images\\cactus2.jpg",
+    "source_image_file_first": "images\\proba.jpg",
+    "source_image_file_second": "images\\probaa.jpg",
     "result_image": "images\\task_3_result.png"
   }
 }
